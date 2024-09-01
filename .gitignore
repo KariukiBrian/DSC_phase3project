@@ -1,0 +1,10 @@
+Data/
+index_files/
+.ipynb_checkpoints/
+.git/
+*.~nb~*
+# test.ipynb
+.DS_Store
+Thumbs.db
+*test.ipynb
+*.csv 
